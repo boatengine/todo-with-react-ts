@@ -1,4 +1,3 @@
-import React from "react";
 import type { Todo } from "@/App";
 import StatusCard from "./StatusCard";
 

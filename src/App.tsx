@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Task from "./components/Task";
 import Form from "./components/Form";
 import toast from "react-hot-toast";
